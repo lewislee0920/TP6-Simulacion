@@ -1,3 +1,4 @@
 Integrante:
 
-Lee Jaemin
+  Lee Jaemin
+  Guini Gonzalo
